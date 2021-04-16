@@ -29,7 +29,7 @@ target/
 .mvn
 ## ignite
 ignite.iml
-
+/ignite/**
 
 ### STS ###
 .apt_generated
